@@ -1,6 +1,6 @@
 # A little about me
 
-My name is Zyad Elgohary. I'm currently a student at the University of Washington Bothell with a minor in Entrepreneurship. I'm graduating in the Spring of 2023. I've always had an interest in Computer Science. I learned how to code at the beginning of high school and, ever since, I've been building a lot of projects and even started a few startups with some friends involving some apps and websites that I've built. I love sitting down and hacking away at a coding project in my free time while learning new technologies whenever I can.
+./ My name is Zyad Elgohary. I'm currently a student at the University of Washington Bothell with a minor in Entrepreneurship. I'm graduating in the Spring of 2023. I've always had an interest in Computer Science. I learned how to code at the beginning of high school and, ever since, I've been building a lot of projects and even started a few startups with some friends involving some apps and websites that I've built. I love sitting down and hacking away at a coding project in my free time while learning new technologies whenever I can.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
