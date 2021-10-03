@@ -27,7 +27,7 @@ Coding is Us was a project I worked on during the pandemic which was a code lear
 
 ### Help
 
-Help was a mobile app that I built with some other students in high school that provided an Uber-like experience to small businesses that offered services such as cleaning, plumbing, and landscaping. Customers would go on their app, request a service such as cleaning, schedule it, pay for it, and the business would receive the request and dispatch somebody to copmlete it. Learn more about Help here. [Link](url)
+Help was a mobile app that I built with some other students in high school that provided an Uber-like experience to small businesses that offered services such as cleaning, plumbing, and landscaping. Customers would go on their app, request a service such as cleaning, schedule it, pay for it, and the business would receive the request and dispatch somebody to copmlete it. [Learn more about Help here.](https://zyadcodes.github.io/Portfolio/help)
 
 # ./ Contact
 
