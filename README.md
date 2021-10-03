@@ -23,7 +23,7 @@ Pondr was a startup that I interned at during the summer of 2021. The startup le
 
 ### Coding is Us
 
-Coding is Us was a project I worked on during the pandemic which was a code learning platform developed for people around the world. It aggregated resources from across YouTube and organized the best courses by language, technology, etc. It also provided progress tracking and in-site IDE. Learn more about Coding is Us here. [Link](url)
+Coding is Us was a project I worked on during the pandemic which was a code learning platform developed for people around the world. It aggregated resources from across YouTube and organized the best courses by language, technology, etc. It also provided progress tracking and in-site IDE. [Learn more about Coding is Us here.](https://zyadcodes.github.io/Portfolio/codingisus)
 
 ### Help
 
