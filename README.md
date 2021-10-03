@@ -19,7 +19,7 @@ I have experience in working with teams on software projects, building large-sca
 
 ### Pondr
 
-Pondr was a startup that I interned at during the summer of 2021. The startup leveraged Natural Langauge Processing to provide A.I-driven analytics for e-commerce sellers via review analysis. I worked across the project from building out the analytics platform on the front end, to aiding the AI team in building out the API to analyze the data. Learn more about Pondr here. [Link](url)
+Pondr was a startup that I interned at during the summer of 2021. The startup leveraged Natural Langauge Processing to provide A.I-driven analytics for e-commerce sellers via review analysis. I worked across the project from building out the analytics platform on the front end, to aiding the AI team in building out the API to analyze the data. [Learn more about Pondr here.](https://zyadcodes.github.io/Portfolio/pondr)
 
 ### Coding is Us
 
