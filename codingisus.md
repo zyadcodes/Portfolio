@@ -6,7 +6,7 @@ Coding is Us was a project I worked on during the pandemic which was a code lear
 
 ## ./ What technologies did I use?
 
-I built the mobile app using React Native, React.JS, Node.JS, and the Google Firebase Suite for authentication, database services, and hosting. Firebase Cloud Firestore is a document-based database that was used to securely store user data.
+I built the mobile app using React Native, React.JS, Node.JS, and the Google Firebase Suite for authentication, database services, hosting, and Cloud Firestore, which is a document-based NoSQL database that was used to securely store user data.
 
 ## ./ What did I do?
 
