@@ -2,7 +2,7 @@
 
 ## ./ What was it?
 
-Coding is Us was a project I worked on during the pandemic which was a code learning platform developed for people around the world. It aggregated resources from across YouTube and organized the best courses by language, technology, etc. It also provided progress tracking and in-site IDE.
+Coding is Us was a project I worked on during the pandemic which was a code learning platform developed for people around the world. It aggregated resources from across YouTube and organized the best courses by language, technology, etc. It also provided progress tracking and in-site IDE. [Check out the code here.](https://github.com/zyadcodes/CodingIsUs)
 
 ## ./ What technologies did I use?
 
