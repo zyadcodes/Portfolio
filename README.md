@@ -29,6 +29,10 @@ Coding is Us was a project I worked on during the pandemic which was a code lear
 
 Help was a mobile app that I built with some other students in high school that provided an Uber-like experience to small businesses that offered services such as cleaning, plumbing, and landscaping. Customers would go on their app, request a service such as cleaning, schedule it, pay for it, and the business would receive the request and dispatch somebody to copmlete it. [Learn more about Help here.](https://zyadcodes.github.io/Portfolio/help)
 
+### Quran Connect
+
+Quran Connect was a mobile app that I built alongside some friends to serve as a classroom management solution for Islamic institutions. Religious teachers could use it to keep track of student assignments, manage grades, communicate with the classroosm, and much more. [Learn more about Quran Connect here.](https://zyadcodes.github.io/Portfolio/quranconnect)
+
 # ./ Contact
 
 If you would like to reach me, you can shoot me an email at zyadprofessional@gmail.com.
